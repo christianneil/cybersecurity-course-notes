@@ -11,3 +11,5 @@ man- inshort Manual
 sudo -  means super use do
 $sudo apt remove cmatrix
 $pwd - means print working directory (shows current directory
+$cd .. - it wil turn back to previous home directory
+$ls - means list
