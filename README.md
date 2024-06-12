@@ -19,6 +19,14 @@ $mousepad hello.txt                           # we can edit this text with mouse
 $sudo cp hello.txt superuserhello.txt         #with super user persmission
 $mousepad superuserhello.txt                 #(when u edit this and hit save it will show u cantedit) you cant edit this because you only have read access you dont have the write access
 #sudo mousepad superuserhello.txt            #YOU WILL HAVE NO PROBLEM EDITING THIS SINCE U COPIED THIS FILE WITH SUDO YOU WILL HAVE NO PROBLEM EDITING THIS WITH SUDO MOUSPAD
+<MOVING FILE>
+#mv hello.txt newfolder
+<DElETING FILE>
+#rm hello.txt
+
+
+
+
 
 pwd                       # Print current directory path
 ls                        # List directories
